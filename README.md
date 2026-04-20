@@ -18,4 +18,4 @@ Erin J. Howden, Benjamin L. Parker, Lea M.D. Delbridge, Kate L. Weeks, “Sex di
 •	  pcaMethods
 •	  tidyr
 •	  dplyr
-•	  Tibble
+•	  tibble
